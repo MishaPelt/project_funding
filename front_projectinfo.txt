@@ -1,11 +1,130 @@
-<h2>Project Headline Info </h2>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+<h1 style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><i><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B"><a href="http://cryptodignity.com/">CryptoDignity</a></span></i></b></h1><p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><i><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">The title is&nbsp; link to existing website and the text bellow is a project how to enhance it...</span></i></b></p><p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><i><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">Picture worth a thousand words. Are
+you getting an idea form my doodle?</span></i></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
 
-<h3>Project Subheader</h3>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">Let me tell you more about
+CryptoDignity. It was conceived to honour and entertain the ever-growing
+crypto-currency community. In the frenzy that is the increasing crypto economy
+I want to value the people. They, who spending so much time and devotion to
+crypto because they believe and know, that it will change the world for the
+better, for everyone.</span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">&nbsp;</span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">The idea ripened and expanded and
+with the launch of Money Button, the website made by me, kind of Alice, will be
+enhanced and customized by proper developers, translated to Spanish, and
+promoted outside the crypto sphere. This will lead to more use-cases, increase
+adoption of BCH, create possibility for people, especially artists, to earn,
+spend and replace, increase amount of transactions, bring smile to crypto
+warriors faces and warm up hearts.</span></b><b><span style="font-size:9.5pt;
+font-family:&quot;Verdana&quot;,sans-serif;color:#333333">The website can also become an
+interesting and unique educational tool for people to learn about projects and
+personalities, that are creating history</span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;">.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">Deriving music, using numerology
+principles and music harmony is a novel idea, and as a such, if served well,
+will take attention of masses.</span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B"><br>
+<!--[if !supportLineBreakNewLine]--><br>
+<!--[endif]--></span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">I was seeking for an opinion, and
+wrote to Ryan X. Charles, and he answer me in such a way, that I am confident
+enough to start this fundraising. You can check out the <a href="https://wp.me/p7S7lk-k1">email here</a>.</span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B"><br>
+<!--[if !supportLineBreakNewLine]--><br>
+<!--[endif]--></span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:9.5pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">I will use <a href="https://www.yours.org/about/">Yours.org</a> as a testing field
+and get some musicians to participate. They can post their expressions of tunes
+in comments of post and be tipped by users.</span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;">&nbsp;</span></p>
+
+<ol start="1" type="1">
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l1 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Later, when
+     the website is ready, and Money Button implemented, they each will have
+     their own button, and hopefully the word will spread and more musicians
+     will be joining in.<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l1 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;Nicely,
+     there is possibility to share the tip, therefor small part will be set
+     apart by default, and donated to different causes, as Eat BCH, etc.,
+     because sharing is caring, and caring is sharing, and I always wanted to
+     use my inventions well, to let it roll.<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l1 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">There will be
+     little part for me as well, as a reward for my inventions and creating and
+     allowing this opportunity.&nbsp;<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l1 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">There will be
+     also a shop, so the artists do not rely solely on donations and tips, and
+     the profit will be shared.<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l1 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Writers and other
+     artists will have their place as well, to write about personalities and
+     projects, doing what they like, while informing others.&nbsp;<o:p></o:p></span></li>
+</ol>
+
+<p class="MsoNormal" style="margin-bottom: 24pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size:12.0pt;font-family:
+&quot;Georgia&quot;,serif;color:#6F6E6B">I usually live in Spain, but now I am for the
+summer in Czech.&nbsp;The big action will start when I come back and settle
+down. Meanwhile I am focusing&nbsp;on the preparation.&nbsp;</span><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom: 24pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:12.0pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">Work plan:</span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<ul type="disc">
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">arrange and
+     equip shop (it is cheaper here than in Spain) try to make them accept BCH<o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">making vlog
+     about this project&nbsp;</span><span style="font-size:12.0pt;font-family:
+     &quot;Segoe UI Emoji&quot;,sans-serif;color:#6F6E6B">📹</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">making your
+     (donors) tunes and posting them on Yours.org under the tag #honour the donor&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Segoe UI Emoji&quot;,sans-serif;
+     mso-bidi-font-family:&quot;Segoe UI Emoji&quot;">🎵</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">thinking it
+     through, writing notes, etc.&nbsp;&nbsp;</span><span style="font-size:
+     12.0pt;font-family:&quot;Segoe UI Emoji&quot;,sans-serif;color:#6F6E6B">🤔</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">all that with
+     two kids on my side, some will know, what a challenge :-)&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Segoe UI Emoji&quot;,sans-serif;
+     mso-bidi-font-family:&quot;Segoe UI Emoji&quot;">👪</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></li>
+</ul>
+
+<p class="MsoNormal" style="margin-bottom: 24pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:12.0pt;
+font-family:&quot;Georgia&quot;,serif;color:#6F6E6B">&nbsp;What I will use the funds for:</span></b><span style="font-size: 9.5pt; font-family: Verdana, sans-serif;"><o:p></o:p></span></p>
+
+<ul type="disc">
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo3;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">equip the
+     shop&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Segoe UI Emoji&quot;,sans-serif;
+     color:#6F6E6B">👕</span><span style="font-size:12.0pt;font-family:
+     &quot;Times New Roman&quot;,serif"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo3;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">purchase
+     decent guitar, if possible&nbsp;</span><span style="font-size:12.0pt;
+     font-family:&quot;Segoe UI Emoji&quot;,sans-serif;color:#6F6E6B">🎸</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:normal;mso-list:l0 level1 lfo3;tab-stops:list 36.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">basic needs
+     like food and gasoline&nbsp;</span><span style="font-size:12.0pt;
+     font-family:&quot;Segoe UI Emoji&quot;,sans-serif;color:#6F6E6B">🥑</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></li>
+</ul>
