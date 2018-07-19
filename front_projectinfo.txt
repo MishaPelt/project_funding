@@ -151,8 +151,7 @@ and feel good. About myself, the world, and the humanity.
 
 
 With love, respekt and wishes of the best to and for everyone,
-
-
+<p class="MsoNormal" style="line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size:9.5pt;
 
 Sincerely Yours, kind of Alice ;-),
 Misha Pelt
